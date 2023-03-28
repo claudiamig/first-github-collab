@@ -16,4 +16,8 @@ Testing numbered bullet points:
 
 Let's test adding an image:
 
-![Alt text: This image shows a white kitten with big eyes looking up]
+![Alt text: This image shows a a star cluster](https://it.wikipedia.org/wiki/Pleiadi_%28astronomia%29#/media/File:Pleiades_large.jpg)
+
+
+Add a link 
+[Closer to the sky](https://github.com/claudiamig/closer-to-the-sky)
