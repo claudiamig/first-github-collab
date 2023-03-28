@@ -16,7 +16,7 @@ Testing numbered bullet points:
 
 Let's test adding an image:
 
-![Alt text: This image shows a a star cluster](https://it.wikipedia.org/wiki/Pleiadi_%28astronomia%29#/media/File:Pleiades_large.jpg)
+![Alt text: This image shows a a star cluster](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/1920px-Pleiades_large.jpg)
 
 
 Add a link 
